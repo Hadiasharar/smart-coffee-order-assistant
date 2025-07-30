@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("../images/photo-1509042239860-f550ce710b93.avif");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  margin: 0;
+  padding: 40px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 40px;
+  color: #ffd700;
+  text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+  margin-bottom: 0.2em;
+}
+
+h2 {
+  font-size: 28px;
+  margin-top: 20px;
+  color: #f9f9f9;
+}
+
+.tagline {
+  font-style: italic;
+  margin-top: 10px;
+  color: #eee;
+}
+
+/* Optional container styling */
+.container {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 40px;
+  min-height: 100vh;
+}
